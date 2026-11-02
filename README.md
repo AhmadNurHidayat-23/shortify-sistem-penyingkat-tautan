@@ -1,4 +1,4 @@
-# Shortify
+# Shortify — Sistem Penyingkat Tautan
 
 **Tautan lebih singkat. Berbagi lebih mudah.**
 
